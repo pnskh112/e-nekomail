@@ -15,9 +15,7 @@
  # 接続先のURL
  send_url = "https://i-securedeliver.jp/sd/dypass88/jsf/login/user/login.jsf"
  # ログインユーザID
- j_username = "dypass88-admin"
  # 2020/08/31
- j_password = "BpTPKjjeKO"
  # 送信するZIPファイル名
  # send_file = "/home/dycsales/data/download/csv/yamato_senddata.zip"
  send_file = "/home/vagrant/watir_src/Ruby/testmailaddress.txt"
