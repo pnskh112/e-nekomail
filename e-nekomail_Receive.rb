@@ -1,13 +1,11 @@
  #!/usr/bin/env ruby
  # encoding: UTF-8
- # # coding: UTF-8
- # # -*- coding: UTF-8 -*-
  #*******************************************************************************
  # e-nekodeliver_Receive.rb
  #
  #    概要        ： e-ネコセキュアデリバー　受信
  #
- #    履歴        ：2020/08/31 Create by 
+ #    履歴        ：2020/08/31 Create by hogehoge
  #
  #*******************************************************************************
 
@@ -18,9 +16,9 @@
  # 接続先のURL
  send_url = "https://i-securedeliver.jp/sd/dypass88/jsf/login/user/login.jsf"
  # ログインユーザID
- j_username = "XXXhogeXXX"
+ j_username = "---hoge---"
  # 2020/08/31
- j_password = "---hoge---"
+ j_password = "---hogePass---"
  # 保存するZIPディレクトリ
 #  receive_dir = "/home/dycsales/data/download/csv/received/"
  receive_dir = "/home/vagrant/watir_src/Ruby/"
